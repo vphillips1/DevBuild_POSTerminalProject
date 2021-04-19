@@ -1,0 +1,13 @@
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\bin\Debug\netcoreapp3.1\POSTerminalProject.exe
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\bin\Debug\netcoreapp3.1\POSTerminalProject.deps.json
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\bin\Debug\netcoreapp3.1\POSTerminalProject.runtimeconfig.json
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\bin\Debug\netcoreapp3.1\POSTerminalProject.runtimeconfig.dev.json
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\bin\Debug\netcoreapp3.1\POSTerminalProject.dll
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\bin\Debug\netcoreapp3.1\POSTerminalProject.pdb
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.AssemblyInfoInputs.cache
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.AssemblyInfo.cs
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.csproj.CoreCompileInputs.cache
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.dll
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.pdb
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.genruntimeconfig.cache
+C:\Users\vphillips\dev\POSTerminalProject\POSTerminalProject\obj\Debug\netcoreapp3.1\POSTerminalProject.csprojAssemblyReference.cache
